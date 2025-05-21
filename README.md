@@ -1,5 +1,5 @@
 TaskFlow - Eisenhower Matrix Task Manager
-TaskMaster is a React-based task management application built using the Eisenhower Matrix framework. It helps users prioritize tasks by categorizing them into four quadrants: Urgent & Important, Urgent but not Important, Important but not Urgent, and Not Urgent Not Important. The app includes a calendar for scheduling tasks, supports multiple languages (English and Polish), and stores tasks in the browser's localStorage for persistence.
+Taskflow is a React-based task management application built using the Eisenhower Matrix framework. It helps users prioritize tasks by categorizing them into four quadrants: Urgent & Important, Urgent but not Important, Important but not Urgent, and Not Urgent Not Important. The app includes a calendar for scheduling tasks, supports multiple languages (English and Polish), and stores tasks in the browser's localStorage for persistence.
 Features
 
 Eisenhower Matrix Task Management:
